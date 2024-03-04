@@ -1,0 +1,17 @@
+{
+  "name": "api_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "mocha": "^10.3.0",
+    "supertest": "^6.3.4"
+  }
+}
